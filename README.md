@@ -6,21 +6,21 @@ This project aims to solve the problem of clinical trial similarity and matching
 **Table of Contents**
 ---------------------
 
-1.  [Dataset Preparation]
+1.  Dataset Preparation
     
-2.  [Data Preprocessing]
+2.  Data Preprocessing
     
-3.  [Embeddings Generation]
+3.  Embeddings Generation
     
-4.  [Training Pair Generation]
+4.  Training Pair Generation
     
-5.  [Model Architecture]
+5.  Model Architecture
     
-6.  [Training Pipeline]
+6.  Training Pipeline
     
-7.  [Validation and Metrics]
+7.  Validation and Metrics
     
-8.  [Project Phases]
+8.  Project Phases
 
 **1\. Dataset Preparation**
 ---------------------------
