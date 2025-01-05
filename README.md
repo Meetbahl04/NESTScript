@@ -6,21 +6,21 @@ This project aims to solve the problem of clinical trial similarity and matching
 **Table of Contents**
 ---------------------
 
-1.  [Dataset Preparation](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#dataset-preparation)
+1.  [Dataset Preparation]
     
-2.  [Data Preprocessing](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#data-preprocessing)
+2.  [Data Preprocessing]
     
-3.  [Embeddings Generation](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#embeddings-generation)
+3.  [Embeddings Generation]
     
-4.  [Training Pair Generation](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#training-pair-generation)
+4.  [Training Pair Generation]
     
-5.  [Model Architecture](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#model-architecture)
+5.  [Model Architecture]
     
-6.  [Training Pipeline](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#training-pipeline)
+6.  [Training Pipeline]
     
-7.  [Validation and Metrics](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#validation-and-metrics)
+7.  [Validation and Metrics]
     
-8.  [Project Phases](https://you.com/search?q=Please+review+the+attached+file:+import_torch_import_torch.nn_as_as.txt&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_ec831515-5cd5-452d-ba94-7fb3304ae643#project-phases)
+8.  [Project Phases]
 
 **1\. Dataset Preparation**
 ---------------------------
